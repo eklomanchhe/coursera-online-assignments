@@ -1,8 +1,5 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Anil Shivakoti!</h2>
-<p align="center">
-<table align="center">
-   <tr>
-      <td>
+
          <p align="center">    
          <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>
          <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
@@ -27,9 +24,4 @@
          - 📫 How to reach me: <a target="_blank" href="https://twitter.com/cvakotianil">@cvakotianil</a> on Twitter -
          <br/>
          
-<a target="_blank" href="https://cliqueapp.me/">
-<img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
-</a>
-<a target="_blank" href="https://opensea.io/collection/prunity-planets">
-<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
-</a>
+
