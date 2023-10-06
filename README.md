@@ -15,9 +15,9 @@
          <br/>
          - 🌏 Developer of <strong><a target="_blank" href="https://localbazaar.com.np/">Local Bazaar</a></strong> - 
            <br/>
-                - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
+                - 📝 Contributor at <strong><a target="_blank" href="https://bhojmandu.com.np/">Bhojmandu</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
            <br/>
-         - 🚚 Former developer of <strong><a target="_blank" href="https://menugoph.com/">TechSewa Freelancer Marketplace</a></strong> -
+         - 🚚 Former developer of <strong><a target="_blank" href="https://techsewa.com.np/">TechSewa Freelancer Marketplace</a></strong> -
          <br/>
          - 📚 I’m currently learning <strong>C++ and Algorithms, Cuber Security</strong> -
          <br/>
@@ -35,7 +35,7 @@
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eklomanchhe&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src=""/>
+         
          <br/><br/><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=eklomanchhe&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
