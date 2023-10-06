@@ -35,10 +35,16 @@
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eklomanchhe&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         
+         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=eklomanchhe&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=eklomanchhe&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
    </tr>
 </table>
 </p>
+<a target="_blank" href="https://cliqueapp.me/">
+<img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
+</a>
+<a target="_blank" href="https://opensea.io/collection/prunity-planets">
+<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
+</a>
