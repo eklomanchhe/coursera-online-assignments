@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <a target="_blank" href="http://eklomanchhe.github.io/coursera-online-assignments/"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png" width="350" 
+         <a target="_blank" href="http://eklomanchhe.github.io/coursera-online-assignments/"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png" width="400" 
      height="80"></a>
             
 <br/><br/>
@@ -13,7 +13,7 @@
          <br/><br/>
          - 🤖 Creator of of <strong><a target="_blank" href="https://discord.com/channels/779997243159216149/780002412026265602/974062119484010526">Prunity Bot</a></strong> - 
          <br/>
-         - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.me/">Click</a></strong> - 
+         - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.me/">CLIQUE</a></strong> - 
            <br/>
                 - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
            <br/>
@@ -42,9 +42,3 @@
    </tr>
 </table>
 </p>
-<a target="_blank" href="https://cliqueapp.me/">
-<img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
-</a>
-<a target="_blank" href="https://opensea.io/collection/prunity-planets">
-<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
-</a>
