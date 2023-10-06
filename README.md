@@ -3,16 +3,13 @@
 <table align="center">
    <tr>
       <td>
-         <p align="center"> 
-            This is Landing page for Coursera Online Assignment Solution tree. <br/> 
+         <p align="center">    
          <a target="_blank" href="http://eklomanchhe.github.io/coursera-online-assignments/"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png" width="400" 
      height="80"></a>
-     <br/>
-       Please click on the menu Button for Assignment Soltions      
+            
 <br/><br/>
 <a target="_blank" href="">
 </a>
-
          <br/><br/>
          - 🤖 Visit <strong><a target="_blank" href="https://anilshivakoti.com.np">Portfolio</a></strong> - 
          <br/>
