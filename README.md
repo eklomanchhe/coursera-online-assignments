@@ -5,9 +5,6 @@
       <td>
          <p align="center">    
          <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/971/541/non_2x/click-cursor-icon-with-click-here-button-free-png.png" width="5%"/></a>
-<br/><br/>
-<a target="_blank" href="">
-</a>
          <br/><br/>
          - 🤖 Creator of of <strong><a target="_blank" href="https://discord.com/channels/779997243159216149/780002412026265602/974062119484010526">Prunity Bot</a></strong> - 
          <br/>
