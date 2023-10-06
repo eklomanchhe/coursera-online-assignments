@@ -4,10 +4,8 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>
-         <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-         This is For my Coursera Online Assigment project
+         This is For my Coursera Online Assigment project <br/>
             <a href="https://discord.gg/WAh8eaF2Qq">CLICK HERE </a> For my Coursera Assignments Tree
 <br/><br/>
 <a target="_blank" href="">
