@@ -8,7 +8,7 @@
          <a target="_blank" href="https://esewa.com/anil"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
          This is For my Coursera Online Assigment project
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/WAh8eaF2Qq">CLICK HERE </a> For my Coursera Assignments Tree
 <br/><br/>
 <a target="_blank" href="">
 </a>
